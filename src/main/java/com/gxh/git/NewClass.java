@@ -5,5 +5,6 @@ public class NewClass {
         System.out.println("新建的分支");
         System.out.println("新建分支写1");
         System.out.println("新建分支写2");
+        System.out.println("新建分支写3");
     }
 }
