@@ -4,5 +4,6 @@ public class NewClass {
     public static void main(String[] args) {
         System.out.println("新建的分支");
         System.out.println("test#######");
+        System.out.println("test 1");
     }
 }
